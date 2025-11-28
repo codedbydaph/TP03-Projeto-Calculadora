@@ -49,7 +49,7 @@ POS-FIXA > sair
 
 No Linux, macOS ou Windows (MinGW):
 ```bash
-gcc expressao.c main.c -o expressao -lm
+gcc expressao.c main.c -o expressao.exe -lm
 ```
 
 Rodar:
