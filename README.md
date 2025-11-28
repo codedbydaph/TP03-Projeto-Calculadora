@@ -35,8 +35,8 @@ Este repositório contém um código limpo e modular que pode ser reutilizado em
 ```bash
 POS-FIXA > 3 4 + 5 *
 
-Infixa .....: (3+4)*5
-Valor ......: 35.000000
+Infixa : (3+4)*5
+Valor : 35.000000
 ```
 
 Para encerrar:
@@ -54,7 +54,7 @@ POS-FIXA > sair
 
 No Linux, macOS ou Windows (MinGW):
 ```bash
-gcc expressao.c main.c -o expressao -lm
+gcc expressao.c main.c -o expressao.exe -lm
 ```
 
 Rodar:
