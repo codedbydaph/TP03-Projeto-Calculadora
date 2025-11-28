@@ -43,6 +43,11 @@ Para encerrar:
 ```bash
 POS-FIXA > sair
 ```
+
+<p align="center">
+  <img src="./img/demo.gif" width="600">
+</p>
+
 ---
 
 ## 🔧 Como Compilar
